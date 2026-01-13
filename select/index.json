@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夏夜のマジック(LIVE at 日比谷野外大音楽堂)",
+  "base_artist": "indigo la End",
+  "createdAt": "2026-01-13T20:43:56.856993Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏夜のマジック",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/pl_01_夏夜のマジック_indigo_la_End.txt"
+    }
+  ]
+}
